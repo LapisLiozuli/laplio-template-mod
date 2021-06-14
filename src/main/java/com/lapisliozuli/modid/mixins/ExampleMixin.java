@@ -1,4 +1,4 @@
-package com.lapisliozuli.modid.mixin;
+package com.lapisliozuli.modid.mixins;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
