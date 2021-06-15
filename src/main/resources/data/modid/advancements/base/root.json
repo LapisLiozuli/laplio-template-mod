@@ -16,18 +16,18 @@
     "background": "modid:textures/gui/advancements/stone_brick.png"
   },
   "criteria": {
-    "slay_slime_white": {
+    "slay_slime": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "modid:slime_entity_white"
+          "type": "minecraft:slime"
         }
       }
     }
   },
   "requirements": [
     [
-      "slay_slime_white"
+      "slay_slime"
     ]
   ]
 }

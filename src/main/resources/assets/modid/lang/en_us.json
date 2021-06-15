@@ -1,0 +1,8 @@
+{
+  "itemGroup.modid.modid":"MODID",
+  "item.modid.template_item":"Debug Slimeball",
+  "entity.modid.template_entity":"Debug Slime",
+  "block.modid.template_block":"Debug Slime Block",
+  "advancements.modid.root.title":"modid",
+  "advancements.modid.root.description":"modid"
+}
