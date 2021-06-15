@@ -1,8 +1,8 @@
 {
-  "itemGroup.modid.modid":"MODID",
-  "item.modid.template_item":"Debug Slimeball",
-  "entity.modid.template_entity":"Debug Slime",
-  "block.modid.template_block":"Debug Slime Block",
-  "advancements.modid.root.title":"modid",
-  "advancements.modid.root.description":"modid"
+  "itemGroup.modid.modid":"Modid",
+  "item.modid.item":"Template_item",
+  "entity.modid.entity":"Template_entity",
+  "block.modid.block":"Template_block",
+  "advancements.modid.root.title":"Title",
+  "advancements.modid.root.description":"Description"
 }
