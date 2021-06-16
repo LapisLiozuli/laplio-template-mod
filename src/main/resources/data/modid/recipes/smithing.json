@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:cobweb"
+  },
+  "addition": {
+    "item": "minecraft:sticky_piston"
+  },
+  "result": {
+    "item": "minecraft:spawner"
+  }
+}

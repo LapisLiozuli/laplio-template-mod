@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#GA",
+    "DRC",
+    "OBS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:granite"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "D": {
+      "item": "minecraft:diorite"
+    },
+    "R": {
+      "item": "minecraft:dirt"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "O": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:bedrock"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:grass_block",
+    "count": 1
+  },
+  "group": "template_group"
+}

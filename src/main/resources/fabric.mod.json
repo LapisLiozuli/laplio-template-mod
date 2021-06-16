@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "modid",
-  "version": "0.0.0+1.16.5",
+  "version": "${version}",
 
   "name": "Laplio's Template Mod",
   "description": "To generate mods with minimal number of steps.",
@@ -10,11 +10,11 @@
   ],
   "contact": {
     "homepage": "",
-    "sources": "https://github.com/LapisLiozuli/"
+    "sources": "https://github.com/LapisLiozuli/laplio-template-mod"
   },
 
   "license": "MIT",
-  "icon": "",
+  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -32,9 +32,10 @@
   "depends": {
     "fabricloader": "*",
     "fabric": "*",
-    "minecraft": "*",
+    "minecraft": "1.16.5",
+    "java": ">=8"
   },
   "suggests": {
-  },
-  "accessWidener" : "*"
+    "another-mod": "*"
+  }
 }

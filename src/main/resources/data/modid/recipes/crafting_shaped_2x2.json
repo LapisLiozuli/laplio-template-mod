@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G",
+    "AD"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:granite"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "D": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result": {
+    "item": "minecraft:grass_block",
+    "count": 1
+  },
+  "group": "template_group"
+}

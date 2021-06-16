@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:cobweb"
+  },
+  "result": "minecraft:spawner",
+  "group": "template_group",
+  "count": 1
+}
