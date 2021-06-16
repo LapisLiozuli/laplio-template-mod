@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "modid",
-  "version": "0.0.0+1.17",
+  "version": "${version}",
 
   "name": "Laplio's Template Mod",
   "description": "To generate mods with minimal number of steps.",
